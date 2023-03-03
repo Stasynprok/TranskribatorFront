@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  height: 7.5rem;
+  background: var(--global-background);
+  border-radius: 0 0 var(--radius) var(--radius);
+  box-shadow: var(--global-shadow);
+}
+
+.header-text {
+  margin: auto;
+  font-size: 28px;
+}
